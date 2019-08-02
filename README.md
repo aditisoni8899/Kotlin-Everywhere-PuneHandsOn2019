@@ -2,7 +2,7 @@
 This is Just a basic android application having some basic UI interactions and functionalities built with Kotlin.
 
 ## Screenshot :
-![Kotlin-Android-Beginner-App](screenshots/collage.png)
+![Kotlin-Android-Beginner-App](screenshots/collage.jpg)
 
 ----------------------------------------------
 
