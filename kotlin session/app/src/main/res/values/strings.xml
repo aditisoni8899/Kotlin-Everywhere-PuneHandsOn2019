@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">First App with Kotlin</string>
+    <string name="hello_world_text">0</string>
+    <string name="toast">Toast</string>
+    <string name="count">Count</string>
+    <string name="random">Random</string>
+    <string name="random_heading">Here is a random number</string>
+    <string name="blink">Blink</string>
+    <string name="attendees">Number of Attendees</string>
+    <string name="message">Welcome to GDG/WTM Pune!</string>
+    <string name="tweet">Let\'s Tweet Guys! #WTMPune #GDGPune</string>
+</resources>
